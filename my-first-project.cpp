@@ -1,4 +1,5 @@
-#ifndef MYFIRSTPROJECT_H
-#define MYFIRSTPROJECT_H
-void myfirstproject(void);
-#endif // MYFIRSTPROJECT_H
+#include <QDebug>
+#include "my-first-project.h"
+void myFirstProject(void) {
+    qDebug() << "Hello QT !";
+}
