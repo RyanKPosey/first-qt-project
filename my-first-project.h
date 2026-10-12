@@ -1,0 +1,4 @@
+#ifndef MY_FIRST_PROJECT_H
+#define MY_FIRST_PROJECT_H
+
+#endif // MY_FIRST_PROJECT_H
